@@ -158,3 +158,7 @@ DATABASE_URL="file:./dev.db"
 
 <img width="1918" height="850" alt="image" src="https://github.com/user-attachments/assets/4da670c3-4bb3-497f-94e5-f1161dd8252f" />
 
+<img width="1388" height="801" alt="image" src="https://github.com/user-attachments/assets/ea52b798-c114-4a12-ad94-7d80c91e5883" />
+
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/27dd30d4-eeeb-4794-b0b8-36c5c545e579" />
+
