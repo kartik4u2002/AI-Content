@@ -147,7 +147,6 @@ Each platform has its own specialized AI agent:
 ### Backend (`backend/.env`)
 ```env
 
-<img width="1918" height="850" alt="image" src="https://github.com/user-attachments/assets/4da670c3-4bb3-497f-94e5-f1161dd8252f" />
 
 ANTHROPIC_API_KEY=     # Required: Your Claude API key
 PORT=3001
@@ -155,3 +154,7 @@ NODE_ENV=development
 JWT_SECRET=            # Change in production
 DATABASE_URL="file:./dev.db"
 ```
+
+
+<img width="1918" height="850" alt="image" src="https://github.com/user-attachments/assets/4da670c3-4bb3-497f-94e5-f1161dd8252f" />
+
